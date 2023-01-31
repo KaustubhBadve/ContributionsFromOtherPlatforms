@@ -42,7 +42,7 @@ repo = git.Repo("/Users/kaustubhbadve/Desktop/Lead/Lead")
 # repo = git.Repo("/Users/kaustubhbadve/Desktop/call/call")
 # repo = git.Repo("/Users/kaustubhbadve/Desktop/user/user")
 # Your mock repo
-mock_repo = git.Repo("/Users/kaustubhbadve/Desktop/Contributions/ContributionsFromOtherPlatforms")
+mock_repo = git.Repo("/Users/kaustubhbadve/Desktop/untitled folder 3/ContributionsFromOtherPlatforms")
 importer = Importer([repo], mock_repo)
 # I use both my personal email and work email here,
 # Since the private repo uses work email, and Github uses my personal email
