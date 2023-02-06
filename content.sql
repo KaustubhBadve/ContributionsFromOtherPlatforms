@@ -50,3 +50,4 @@ SELECT * from xuren;
 SELECT * from whifc;
 SELECT * from xcobo;
 SELECT * from uigvw;
+SELECT * from gvpuj;
