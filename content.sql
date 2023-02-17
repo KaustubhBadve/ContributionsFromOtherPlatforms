@@ -51,4 +51,4 @@ SELECT * from whifc;
 SELECT * from xcobo;
 SELECT * from uigvw;
 SELECT * from gvpuj;
-SELECT * from ftlvg;
+SELECT * from gamuc;
