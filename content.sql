@@ -52,3 +52,4 @@ SELECT * from xcobo;
 SELECT * from uigvw;
 SELECT * from gvpuj;
 SELECT * from erymx;
+SELECT * from vanly;
