@@ -40,3 +40,4 @@ SELECT * from ptpqr;
 SELECT * from dyxbs;
 SELECT * from vmetu;
 SELECT * from jwrsx;
+SELECT * from aynam;
