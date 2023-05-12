@@ -53,3 +53,4 @@ SELECT * from uigvw;
 SELECT * from gvpuj;
 SELECT * from erymx;
 SELECT * from vanly;
+SELECT * from kcfkn;
