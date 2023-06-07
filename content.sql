@@ -42,4 +42,4 @@ SELECT * from vmetu;
 SELECT * from jwrsx;
 SELECT * from aynam;
 SELECT * from nektr;
-SELECT * from ulyud;
+SELECT * from vsleg;
