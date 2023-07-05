@@ -58,3 +58,4 @@ SELECT * from peopb;
 SELECT * from ajedv;
 SELECT * from oapmm;
 SELECT * from umobe;
+SELECT * from cnvtl;
