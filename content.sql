@@ -59,4 +59,4 @@ SELECT * from ajedv;
 SELECT * from oapmm;
 SELECT * from umobe;
 SELECT * from fdukb;
-SELECT * from cvjcu;
+SELECT * from mhusn;
