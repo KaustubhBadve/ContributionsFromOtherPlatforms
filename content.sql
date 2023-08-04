@@ -60,3 +60,4 @@ SELECT * from oapmm;
 SELECT * from umobe;
 SELECT * from fdukb;
 SELECT * from mhusn;
+SELECT * from fjnoh;
