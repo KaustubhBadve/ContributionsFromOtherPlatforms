@@ -62,4 +62,4 @@ SELECT * from fdukb;
 SELECT * from mhusn;
 SELECT * from fjnoh;
 SELECT * from poorf;
-SELECT * from ekdox;
+SELECT * from skyww;
