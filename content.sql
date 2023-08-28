@@ -63,3 +63,4 @@ SELECT * from mhusn;
 SELECT * from fjnoh;
 SELECT * from poorf;
 SELECT * from skyww;
+SELECT * from qohqs;
