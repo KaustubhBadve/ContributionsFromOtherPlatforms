@@ -66,4 +66,4 @@ SELECT * from skyww;
 SELECT * from qohqs;
 SELECT * from ibtvt;
 SELECT * from sarct;
-SELECT * from ucndu;
+SELECT * from mqhmn;
