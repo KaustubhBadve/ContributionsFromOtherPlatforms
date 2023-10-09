@@ -44,4 +44,4 @@ SELECT * from aynam;
 SELECT * from nektr;
 SELECT * from vsleg;
 SELECT * from sijaq;
-SELECT * from vjpdy;
+SELECT * from iblxb;
