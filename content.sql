@@ -46,3 +46,4 @@ SELECT * from vsleg;
 SELECT * from sijaq;
 SELECT * from fobyn;
 SELECT * from htjhx;
+SELECT * from xuren;
