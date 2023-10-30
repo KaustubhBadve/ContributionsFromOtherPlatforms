@@ -68,4 +68,4 @@ SELECT * from ibtvt;
 SELECT * from sarct;
 SELECT * from mqhmn;
 SELECT * from caekw;
-SELECT * from lhecm;
+SELECT * from ltnqm;
