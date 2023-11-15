@@ -71,3 +71,4 @@ SELECT * from caekw;
 SELECT * from higfb;
 SELECT * from ijmlt;
 SELECT * from nmmbn;
+SELECT * from mjbhu;
