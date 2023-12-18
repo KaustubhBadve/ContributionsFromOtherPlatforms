@@ -72,4 +72,4 @@ SELECT * from higfb;
 SELECT * from ijmlt;
 SELECT * from nmmbn;
 SELECT * from htlha;
-SELECT * from wmrft;
+SELECT * from rgtky;
