@@ -39,3 +39,4 @@ SELECT * from pglct;
 SELECT * from ptpqr;
 SELECT * from dyxbs;
 SELECT * from vmetu;
+SELECT * from hbyba;
