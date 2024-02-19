@@ -73,3 +73,4 @@ SELECT * from ijmlt;
 SELECT * from nmmbn;
 SELECT * from hweyb;
 SELECT * from bfpet;
+SELECT * from cuoqp;
