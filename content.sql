@@ -74,3 +74,4 @@ SELECT * from nmmbn;
 SELECT * from hweyb;
 SELECT * from bfpet;
 SELECT * from ayigr;
+SELECT * from cpuox;
