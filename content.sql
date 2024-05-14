@@ -75,3 +75,4 @@ SELECT * from hweyb;
 SELECT * from bfpet;
 SELECT * from ayigr;
 SELECT * from wflwa;
+SELECT * from wyvxs;
