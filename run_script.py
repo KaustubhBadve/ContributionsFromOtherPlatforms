@@ -26,9 +26,9 @@ import git
 from git_contributions_importer import *
 
 # Your private repo or Bitbucket repo
-# repo = git.Repo("/Users/kaustubhbadve/Desktop/OPD Service/opd")
+repo = git.Repo("/Users/kaustubhbadve/Desktop/OPD Service/opd")
 # repo = git.Repo("/Users/kaustubhbadve/Desktop/ChatBot/chatbot")
-repo = git.Repo("/Users/kaustubhbadve/Desktop/hospital-bridge")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/hospital-bridge")
 # repo = git.Repo("/Users/kaustubhbadve/Desktop/CRM-Bridge/crm-bridge")
 # repo = git.Repo("/Users/kaustubhbadve/Desktop/Discovery/hexa-discovery")
 # repo = git.Repo("/Users/kaustubhbadve/Desktop/EHR/ehr")
