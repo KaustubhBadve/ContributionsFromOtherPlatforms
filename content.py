@@ -40,7 +40,7 @@ mock_repo = git.Repo("/Users/vishalpatil/Desktop/projects/GithubContribution/Con
 importer = Importer([repo], mock_repo)
 # I use both my personal email and work email here,
 # Since the private repo uses work email, and Github uses my personal email
-importer.set_author(['kaustubhbadve7@gmail.com', 'kaustubhbadve@Kaustubhs-MacBook-Air.local'])
+importer.set_author(['kaustubhbadve7@gmail.com', 'kaustubhbadve@Kaustubhs-MacBook-Air'])
 importer.import_repository()
 
 
