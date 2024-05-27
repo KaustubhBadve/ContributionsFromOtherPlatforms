@@ -1,13 +1,26 @@
-# import sys
-# import git
-# from git_contributions_importer import *
+import sys
+import git
+from git_contributions_importer import *
 
-# repos_path = [
-#     'https://github.com/HexaHealth/opd',
-# ]
-# repos = []
-# for repo_path in repos_path:
-#     repos.append(git.Repo(repo_path))
+repos_path = [
+   "/Users/kaustubhbadve/Desktop/hospital-bridge",
+   "/Users/kaustubhbadve/Desktop/OPD Service/opd",
+   "/Users/kaustubhbadve/Desktop/ChatBot/chatbot",
+   "/Users/kaustubhbadve/Desktop/CRM-Bridge/crm-bridge",
+   "/Users/kaustubhbadve/Desktop/Discovery/hexa-discovery",
+   "/Users/kaustubhbadve/Desktop/EHR/ehr",
+   "/Users/kaustubhbadve/Desktop/CMS/hexa-new-cms",
+   "/Users/kaustubhbadve/Desktop/PatientService/patient",
+   "/Users/kaustubhbadve/Desktop/Donna/donna",
+   "/Users/kaustubhbadve/Desktop/Lead/Lead",
+   "/Users/kaustubhbadve/Desktop/apiGateway/api-gateway",
+   "/Users/kaustubhbadve/Desktop/DMG/dmg",
+   "/Users/kaustubhbadve/Desktop/call/call",
+   "/Users/kaustubhbadve/Desktop/user/user"
+]
+repos = []
+for repo_path in repos_path:
+    repos.append(git.Repo(repo_path))
 
 # mock_repo_path = 'https://github.com/KaustubhBadve/ContributionsFromOtherPlatforms'
 # mock_repo = git.Repo.init(mock_repo_path)
@@ -26,7 +39,7 @@ import git
 from git_contributions_importer import *
 
 # Your private repo or Bitbucket repo
-repo = git.Repo("/Users/kaustubhbadve/Desktop/OPD Service/opd")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/OPD Service/opd")
 # repo = git.Repo("/Users/kaustubhbadve/Desktop/ChatBot/chatbot")
 # repo = git.Repo("/Users/kaustubhbadve/Desktop/hospital-bridge")
 # repo = git.Repo("/Users/kaustubhbadve/Desktop/CRM-Bridge/crm-bridge")
@@ -42,7 +55,7 @@ repo = git.Repo("/Users/kaustubhbadve/Desktop/OPD Service/opd")
 # repo = git.Repo("/Users/kaustubhbadve/Desktop/user/user")
 # Your mock repo
 mock_repo = git.Repo("/Users/kaustubhbadve/Desktop/untitled folder 3/ContributionsFromOtherPlatforms")
-importer = Importer([repo], mock_repo)
+importer = Importer(repos, mock_repo)
 # I use both my personal email and work email here,
 # Since the private repo uses work email, and Github uses my personal email
 importer.set_author(['kaustubhbadve7@gmail.com',"kaustubh.badve@hexahealth.com", 'kaustubhbadve@Kaustubhs-MacBook-Air.local',"119594091+KaustubhHexa@users.noreply.github.com"])
