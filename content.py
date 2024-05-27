@@ -27,16 +27,22 @@ from git_contributions_importer import *
 
 # Your private repo or Bitbucket repo
 
-# repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/opd/opd")
-# repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/donna/donna")
-# repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/crm-bridge/crm-bridge")
-# repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/user/user")
-# repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/lead/lead")
-# repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/patient/patient")
-# repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/ehr/ehr")
-repo = git.Repo("/Users/vishalpatil/Desktop/HexaHealthApi/api-gateway/api-gateway")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/OPD Service/opd")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/ChatBot/chatbot")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/hospital-bridge")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/CRM-Bridge/crm-bridge")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/Discovery/hexa-discovery")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/EHR/ehr")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/CMS/hexa-new-cms")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/PatientService/patient")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/Donna/donna")
+repo = git.Repo("/Users/kaustubhbadve/Desktop/Lead/Lead")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/apiGateway/api-gateway")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/DMG/dmg")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/call/call")
+# repo = git.Repo("/Users/kaustubhbadve/Desktop/user/user")
 # Your mock repo
-mock_repo = git.Repo("/Users/vishalpatil/Desktop/projects/GithubContribution/Contribution")
+mock_repo = git.Repo("/Users/kaustubhbadve/Desktop/Contributions/ContributionsFromOtherPlatforms")
 importer = Importer([repo], mock_repo)
 # I use both my personal email and work email here,
 # Since the private repo uses work email, and Github uses my personal email
